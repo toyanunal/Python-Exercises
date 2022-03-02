@@ -1,7 +1,7 @@
 from ctypes import c_byte
 
 
-class Node: #toyan: yeni bir class eklemek uygun olmayabilir. crate classı node class gibi kullanabiliyorsun
+class Node:
 
     def __init__(self, data, nextNode=None):
         self.data = data
