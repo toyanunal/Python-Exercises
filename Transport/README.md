@@ -1,8 +1,8 @@
 ### Requirements
 
-1. Simulate a plate transport system and implement a corresponding data structure.
-2. In this simulation, plates with same width and height but diﬀerent thicknesses are carried from one point to another.
-3. Plates have integer thicknesses between 1 and 9.
+- Simulate a plate transport system and implement a corresponding data structure.
+- In this simulation, plates with same width and height but diﬀerent thicknesses are carried from one point to another.
+- Plates have integer thicknesses between 1 and 9.
 - Crates have an integer capacity between 9 and 99, in terms of total thicknesses of contained plates. For example, a crate with capacity 20 can carry plates with thicknesses [9,9,2], [8] or [7,8,4], but cannot carry [9,9,3] where the total thickness exceeds the capacity.
 - There are two points, source and destination, that plates are transported.
 - There are two conveyor rollers (belts) that carry crates. One conveyor is used to carry empty crates, other to carry the crates containing plates. Conveyors can carry any number of crates, there is no upper limit for it.
