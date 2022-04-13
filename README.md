@@ -1,1 +1,1 @@
-Python-based exercises
+Python-based projects that I have completed.
