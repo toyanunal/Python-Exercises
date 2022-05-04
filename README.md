@@ -1,1 +1,1 @@
-Python-based projects that I have completed.
+This repository includes Python-based tasks and projects that I have been working on.
